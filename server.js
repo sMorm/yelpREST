@@ -9,7 +9,7 @@ const client = yelp.client(token);
 const app = express();
 
 // Port Number?
-const PORT = 3000
+const PORT = 5000
 
 // Express Middleware, 'use' public directory
 app.use(express.static('public'));
@@ -17,10 +17,6 @@ app.use(express.static('public'));
 app.use(bodyParser.urlencoded({
     extended: false,
 }));
-
-app.listen(PORT, () => {
-  console.log('Started listening on port ' + PORT);
-});
 
 // GET response for root
 app.get('/', () => {
@@ -61,3 +57,5 @@ app.post('/search', (req, res) => {
       return e.json({ error })
 });
 });
+
+app.listen(process.env.PORT || 5000);
