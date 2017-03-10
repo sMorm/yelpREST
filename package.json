@@ -1,0 +1,19 @@
+{
+  "name": "start",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Serey Morm",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.15.3",
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "yelp": "^1.0.2",
+    "yelp-fusion": "^1.0.3"
+  }
+}

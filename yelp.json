@@ -1,0 +1,852 @@
+{
+  "region": {
+    "center": {
+      "longitude": -71.30007600688477,
+      "latitude": 42.6308202114379
+    }
+  },
+  "businesses": [
+    {
+      "review_count": 31,
+      "price": "$",
+      "distance": 1866.429007254,
+      "location": {
+        "city": "Lowell",
+        "display_address": [
+          "124 University Ave.",
+          "Lowell, MA 01854"
+        ],
+        "address1": "124 University Ave.",
+        "address3": "",
+        "state": "MA",
+        "zip_code": "01854",
+        "address2": "",
+        "country": "US"
+      },
+      "is_closed": false,
+      "phone": "+19786568750",
+      "rating": 4.5,
+      "name": "Tacos Lupita",
+      "display_phone": "(978) 656-8750",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/m7wabj832t70Nm4Q9Ya7ug/o.jpg",
+      "categories": [
+        {
+          "title": "Mexican",
+          "alias": "mexican"
+        }
+      ],
+      "transactions": [],
+      "id": "tacos-lupita-lowell-2",
+      "url": "https://www.yelp.com/biz/tacos-lupita-lowell-2?adjust_creative=Qmv8zIF9edFTjGspSrTyDg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Qmv8zIF9edFTjGspSrTyDg",
+      "coordinates": {
+        "longitude": -71.328095520324,
+        "latitude": 42.6544630736708
+      }
+    },
+    {
+      "review_count": 181,
+      "price": "$$",
+      "distance": 940.4679760343998,
+      "location": {
+        "city": "Lowell",
+        "display_address": [
+          "124 Merrimack St",
+          "Lowell, MA 01852"
+        ],
+        "address1": "124 Merrimack St",
+        "address3": "",
+        "state": "MA",
+        "zip_code": "01852",
+        "address2": null,
+        "country": "US"
+      },
+      "is_closed": false,
+      "phone": "+19784552840",
+      "rating": 4,
+      "name": "El Potro Mexican Grill",
+      "display_phone": "(978) 455-2840",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/xngrtf_xFX_6syf-56fRcQ/o.jpg",
+      "categories": [
+        {
+          "title": "Mexican",
+          "alias": "mexican"
+        },
+        {
+          "title": "Bars",
+          "alias": "bars"
+        },
+        {
+          "title": "Music Venues",
+          "alias": "musicvenues"
+        }
+      ],
+      "transactions": [],
+      "id": "el-potro-mexican-grill-lowell",
+      "url": "https://www.yelp.com/biz/el-potro-mexican-grill-lowell?adjust_creative=Qmv8zIF9edFTjGspSrTyDg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Qmv8zIF9edFTjGspSrTyDg",
+      "coordinates": {
+        "longitude": -71.3098526000977,
+        "latitude": 42.6454734802246
+      }
+    },
+    {
+      "review_count": 83,
+      "price": "$$",
+      "distance": 587.6187648151999,
+      "location": {
+        "city": "Lowell",
+        "display_address": [
+          "131 Middlesex St",
+          "Lowell, MA 01852"
+        ],
+        "address1": "131 Middlesex St",
+        "address3": "",
+        "state": "MA",
+        "zip_code": "01852",
+        "address2": "",
+        "country": "US"
+      },
+      "is_closed": false,
+      "phone": "+19784460005",
+      "rating": 3.5,
+      "name": "Garcia Brogan's - Lowell",
+      "display_phone": "(978) 446-0005",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/zZ5EqsubFvt3r3vzjtiDYQ/o.jpg",
+      "categories": [
+        {
+          "title": "Irish",
+          "alias": "irish"
+        },
+        {
+          "title": "Mexican",
+          "alias": "mexican"
+        },
+        {
+          "title": "Pubs",
+          "alias": "pubs"
+        }
+      ],
+      "transactions": [],
+      "id": "garcia-brogans-lowell-lowell",
+      "url": "https://www.yelp.com/biz/garcia-brogans-lowell-lowell?adjust_creative=Qmv8zIF9edFTjGspSrTyDg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Qmv8zIF9edFTjGspSrTyDg",
+      "coordinates": {
+        "longitude": -71.3109928057859,
+        "latitude": 42.6412925705175
+      }
+    },
+    {
+      "review_count": 52,
+      "price": "$",
+      "distance": 6580.359032238,
+      "location": {
+        "city": "Tewksbury",
+        "display_address": [
+          "759 Main St",
+          "Tewksbury, MA 01876"
+        ],
+        "address1": "759 Main St",
+        "address3": "",
+        "state": "MA",
+        "zip_code": "01876",
+        "address2": "",
+        "country": "US"
+      },
+      "is_closed": false,
+      "phone": "+19782216016",
+      "rating": 4,
+      "name": "Mexica Burrito Grill",
+      "display_phone": "(978) 221-6016",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/srK7cD9pV9t_FeOIq1sSOQ/o.jpg",
+      "categories": [
+        {
+          "title": "Mexican",
+          "alias": "mexican"
+        }
+      ],
+      "transactions": [],
+      "id": "mexica-burrito-grill-tewksbury",
+      "url": "https://www.yelp.com/biz/mexica-burrito-grill-tewksbury?adjust_creative=Qmv8zIF9edFTjGspSrTyDg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Qmv8zIF9edFTjGspSrTyDg",
+      "coordinates": {
+        "longitude": -71.2441635131836,
+        "latitude": 42.6155662536621
+      }
+    },
+    {
+      "review_count": 161,
+      "price": "$",
+      "distance": 1812.2130785319998,
+      "location": {
+        "city": "Lowell",
+        "display_address": [
+          "110 University Ave",
+          "Lowell, MA 01854"
+        ],
+        "address1": "110 University Ave",
+        "address3": "",
+        "state": "MA",
+        "zip_code": "01854",
+        "address2": "",
+        "country": "US"
+      },
+      "is_closed": false,
+      "phone": "+19789703411",
+      "rating": 4,
+      "name": "Eggroll Cafe",
+      "display_phone": "(978) 970-3411",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/fyoM82uvS7nx8_UQGO70aQ/o.jpg",
+      "categories": [
+        {
+          "title": "Coffee & Tea",
+          "alias": "coffee"
+        },
+        {
+          "title": "Asian Fusion",
+          "alias": "asianfusion"
+        },
+        {
+          "title": "Bubble Tea",
+          "alias": "bubbletea"
+        }
+      ],
+      "transactions": [],
+      "id": "eggroll-cafe-lowell",
+      "url": "https://www.yelp.com/biz/eggroll-cafe-lowell?adjust_creative=Qmv8zIF9edFTjGspSrTyDg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Qmv8zIF9edFTjGspSrTyDg",
+      "coordinates": {
+        "longitude": -71.3275956,
+        "latitude": 42.6541032
+      }
+    },
+    {
+      "review_count": 146,
+      "price": "$$",
+      "distance": 821.8097284943999,
+      "location": {
+        "city": "Lowell",
+        "display_address": [
+          "45 Palmer St",
+          "Lowell, MA 01852"
+        ],
+        "address1": "45 Palmer St",
+        "address3": "",
+        "state": "MA",
+        "zip_code": "01852",
+        "address2": "",
+        "country": "US"
+      },
+      "is_closed": false,
+      "phone": "+19783230424",
+      "rating": 3.5,
+      "name": "Fuse Bistro",
+      "display_phone": "(978) 323-0424",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/xxokqAPC9odBmJgdpVI2Lg/o.jpg",
+      "categories": [
+        {
+          "title": "American (New)",
+          "alias": "newamerican"
+        }
+      ],
+      "transactions": [],
+      "id": "fuse-bistro-lowell",
+      "url": "https://www.yelp.com/biz/fuse-bistro-lowell?adjust_creative=Qmv8zIF9edFTjGspSrTyDg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Qmv8zIF9edFTjGspSrTyDg",
+      "coordinates": {
+        "longitude": -71.3108721,
+        "latitude": 42.6448927
+      }
+    },
+    {
+      "review_count": 14,
+      "price": "$$",
+      "distance": 5407.429070859999,
+      "location": {
+        "city": "Chelmsford",
+        "display_address": [
+          "14 Chelmsford St",
+          "Chelmsford, MA 01824"
+        ],
+        "address1": "14 Chelmsford St",
+        "address3": null,
+        "state": "MA",
+        "zip_code": "01824",
+        "address2": "",
+        "country": "US"
+      },
+      "is_closed": false,
+      "phone": "+19784552818",
+      "rating": 3.5,
+      "name": "Cancun Mexican Restaurant",
+      "display_phone": "(978) 455-2818",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/pMAv67hV84TMZG30dJcZvw/o.jpg",
+      "categories": [
+        {
+          "title": "Tacos",
+          "alias": "tacos"
+        },
+        {
+          "title": "Salad",
+          "alias": "salad"
+        },
+        {
+          "title": "Soup",
+          "alias": "soup"
+        }
+      ],
+      "transactions": [],
+      "id": "cancun-mexican-restaurant-chelmsford",
+      "url": "https://www.yelp.com/biz/cancun-mexican-restaurant-chelmsford?adjust_creative=Qmv8zIF9edFTjGspSrTyDg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Qmv8zIF9edFTjGspSrTyDg",
+      "coordinates": {
+        "longitude": -71.3512097,
+        "latitude": 42.59757
+      }
+    },
+    {
+      "review_count": 4,
+      "price": "$$",
+      "distance": 487.94738184799996,
+      "location": {
+        "city": "Lowell",
+        "display_address": [
+          "192 Middlesex St",
+          "Lowell, MA 01852"
+        ],
+        "address1": "192 Middlesex St",
+        "address3": "",
+        "state": "MA",
+        "zip_code": "01852",
+        "address2": "",
+        "country": "US"
+      },
+      "is_closed": false,
+      "phone": "+19784546919",
+      "rating": 2,
+      "name": "La Diferencia Restaurant",
+      "display_phone": "(978) 454-6919",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/o1rcjk8LUn0cLCLLM1xwKQ/o.jpg",
+      "categories": [
+        {
+          "title": "Mexican",
+          "alias": "mexican"
+        }
+      ],
+      "transactions": [],
+      "id": "la-diferencia-restaurant-lowell",
+      "url": "https://www.yelp.com/biz/la-diferencia-restaurant-lowell?adjust_creative=Qmv8zIF9edFTjGspSrTyDg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Qmv8zIF9edFTjGspSrTyDg",
+      "coordinates": {
+        "longitude": -71.3119202,
+        "latitude": 42.6407433
+      }
+    },
+    {
+      "review_count": 123,
+      "price": "$$",
+      "distance": 5872.682666565999,
+      "location": {
+        "city": "N Billerica",
+        "display_address": [
+          "99 Chelmsford Rd",
+          "N Billerica, MA 01862"
+        ],
+        "address1": "99 Chelmsford Rd",
+        "address3": "",
+        "state": "MA",
+        "zip_code": "01862",
+        "address2": "",
+        "country": "US"
+      },
+      "is_closed": false,
+      "phone": "+19782629030",
+      "rating": 3.5,
+      "name": "Casa Blanca Mexican Restaurant",
+      "display_phone": "(978) 262-9030",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/oKNGoLPOrOHBQUkOGt7qlA/o.jpg",
+      "categories": [
+        {
+          "title": "Mexican",
+          "alias": "mexican"
+        }
+      ],
+      "transactions": [],
+      "id": "casa-blanca-mexican-restaurant-n-billerica",
+      "url": "https://www.yelp.com/biz/casa-blanca-mexican-restaurant-n-billerica?adjust_creative=Qmv8zIF9edFTjGspSrTyDg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Qmv8zIF9edFTjGspSrTyDg",
+      "coordinates": {
+        "longitude": -71.30574,
+        "latitude": 42.58754
+      }
+    },
+    {
+      "review_count": 116,
+      "price": "$$",
+      "distance": 5003.217419486,
+      "location": {
+        "city": "Tewksbury",
+        "display_address": [
+          "346 Main St",
+          "Tewksbury, MA 01876"
+        ],
+        "address1": "346 Main St",
+        "address3": "",
+        "state": "MA",
+        "zip_code": "01876",
+        "address2": "",
+        "country": "US"
+      },
+      "is_closed": false,
+      "phone": "+19786407922",
+      "rating": 2.5,
+      "name": "Oscar's Pinata",
+      "display_phone": "(978) 640-7922",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/HYh3j6Vx_qVt7ZSPnm8Ggw/o.jpg",
+      "categories": [
+        {
+          "title": "Mexican",
+          "alias": "mexican"
+        }
+      ],
+      "transactions": [],
+      "id": "oscars-pinata-tewksbury",
+      "url": "https://www.yelp.com/biz/oscars-pinata-tewksbury?adjust_creative=Qmv8zIF9edFTjGspSrTyDg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Qmv8zIF9edFTjGspSrTyDg",
+      "coordinates": {
+        "longitude": -71.2616500854492,
+        "latitude": 42.621654510498
+      }
+    },
+    {
+      "review_count": 65,
+      "price": "$",
+      "distance": 4102.270585194,
+      "location": {
+        "city": "Chelmsford",
+        "display_address": [
+          "90 Drum Hill Rd",
+          "Chelmsford, MA 01824"
+        ],
+        "address1": "90 Drum Hill Rd",
+        "address3": "",
+        "state": "MA",
+        "zip_code": "01824",
+        "address2": "",
+        "country": "US"
+      },
+      "is_closed": false,
+      "phone": "+19784596637",
+      "rating": 3,
+      "name": "Moe's Southwest Grill",
+      "display_phone": "(978) 459-6637",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/iAqJksO_NcARG0ILO5AgfA/o.jpg",
+      "categories": [
+        {
+          "title": "Tex-Mex",
+          "alias": "tex-mex"
+        },
+        {
+          "title": "Mexican",
+          "alias": "mexican"
+        }
+      ],
+      "transactions": [],
+      "id": "moes-southwest-grill-chelmsford",
+      "url": "https://www.yelp.com/biz/moes-southwest-grill-chelmsford?adjust_creative=Qmv8zIF9edFTjGspSrTyDg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Qmv8zIF9edFTjGspSrTyDg",
+      "coordinates": {
+        "longitude": -71.3622569490783,
+        "latitude": 42.622514216794
+      }
+    },
+    {
+      "review_count": 12,
+      "price": "$",
+      "distance": 2947.982091838,
+      "location": {
+        "city": "Lowell",
+        "display_address": [
+          "1720 Middlesex Street",
+          "Lowell, MA 01851"
+        ],
+        "address1": "1720 Middlesex Street",
+        "address3": null,
+        "state": "MA",
+        "zip_code": "01851",
+        "address2": null,
+        "country": "US"
+      },
+      "is_closed": false,
+      "phone": "+19784581883",
+      "rating": 2,
+      "name": "Taco Bell",
+      "display_phone": "(978) 458-1883",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/M7MUHVXYwX-kNAnIpBA_Eg/o.jpg",
+      "categories": [
+        {
+          "title": "Tex-Mex",
+          "alias": "tex-mex"
+        },
+        {
+          "title": "Fast Food",
+          "alias": "hotdogs"
+        },
+        {
+          "title": "Mexican",
+          "alias": "mexican"
+        }
+      ],
+      "transactions": [],
+      "id": "taco-bell-lowell-3",
+      "url": "https://www.yelp.com/biz/taco-bell-lowell-3?adjust_creative=Qmv8zIF9edFTjGspSrTyDg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Qmv8zIF9edFTjGspSrTyDg",
+      "coordinates": {
+        "longitude": -71.353319,
+        "latitude": 42.635236
+      }
+    },
+    {
+      "review_count": 10,
+      "price": "$",
+      "distance": 781.3731458798,
+      "location": {
+        "city": "Lowell",
+        "display_address": [
+          "366 Merrimack Street",
+          "Lowell, MA 01852"
+        ],
+        "address1": "366 Merrimack Street",
+        "address3": "",
+        "state": "MA",
+        "zip_code": "01852",
+        "address2": null,
+        "country": "US"
+      },
+      "is_closed": false,
+      "phone": "+19784558354",
+      "rating": 4.5,
+      "name": "Galeria Cafe´",
+      "display_phone": "(978) 455-8354",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/NrIVIfQtKtzKPFdORf5zlw/o.jpg",
+      "categories": [
+        {
+          "title": "Desserts",
+          "alias": "desserts"
+        },
+        {
+          "title": "Coffee & Tea",
+          "alias": "coffee"
+        },
+        {
+          "title": "Venezuelan",
+          "alias": "venezuelan"
+        }
+      ],
+      "transactions": [],
+      "id": "galeria-cafe-lowell",
+      "url": "https://www.yelp.com/biz/galeria-cafe-lowell?adjust_creative=Qmv8zIF9edFTjGspSrTyDg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Qmv8zIF9edFTjGspSrTyDg",
+      "coordinates": {
+        "longitude": -71.3140482455492,
+        "latitude": 42.6459719985723
+      }
+    },
+    {
+      "review_count": 39,
+      "price": "$$",
+      "distance": 2994.619316632,
+      "location": {
+        "city": "Lowell",
+        "display_address": [
+          "26 Reiss Ave",
+          "Lowell, MA 01851"
+        ],
+        "address1": "26 Reiss Ave",
+        "address3": "",
+        "state": "MA",
+        "zip_code": "01851",
+        "address2": "",
+        "country": "US"
+      },
+      "is_closed": false,
+      "phone": "+19789371565",
+      "rating": 3,
+      "name": "Chili's",
+      "display_phone": "(978) 937-1565",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/Ru_UCC3fxCa5fxkf3O-kBg/o.jpg",
+      "categories": [
+        {
+          "title": "American (Traditional)",
+          "alias": "tradamerican"
+        },
+        {
+          "title": "Bars",
+          "alias": "bars"
+        },
+        {
+          "title": "Tex-Mex",
+          "alias": "tex-mex"
+        }
+      ],
+      "transactions": [],
+      "id": "chilis-lowell",
+      "url": "https://www.yelp.com/biz/chilis-lowell?adjust_creative=Qmv8zIF9edFTjGspSrTyDg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Qmv8zIF9edFTjGspSrTyDg",
+      "coordinates": {
+        "longitude": -71.3222477585077,
+        "latitude": 42.6127830147743
+      }
+    },
+    {
+      "review_count": 28,
+      "price": "$$",
+      "distance": 8245.48165345,
+      "location": {
+        "city": "Methuen",
+        "display_address": [
+          "106 Lowell Blvd",
+          "Methuen, MA 01844"
+        ],
+        "address1": "106 Lowell Blvd",
+        "address3": "",
+        "state": "MA",
+        "zip_code": "01844",
+        "address2": "",
+        "country": "US"
+      },
+      "is_closed": false,
+      "phone": "+19786884672",
+      "rating": 3.5,
+      "name": "Casa Blanca",
+      "display_phone": "(978) 688-4672",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/zWqMbkWFlsb-Pol9JIb0Wg/o.jpg",
+      "categories": [
+        {
+          "title": "Mexican",
+          "alias": "mexican"
+        }
+      ],
+      "transactions": [],
+      "id": "casa-blanca-methuen-2",
+      "url": "https://www.yelp.com/biz/casa-blanca-methuen-2?adjust_creative=Qmv8zIF9edFTjGspSrTyDg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Qmv8zIF9edFTjGspSrTyDg",
+      "coordinates": {
+        "longitude": -71.2312469482422,
+        "latitude": 42.6776084899902
+      }
+    },
+    {
+      "review_count": 34,
+      "price": "$$",
+      "distance": 2245.297737912,
+      "location": {
+        "city": "Lowell",
+        "display_address": [
+          "1258 Gorham St",
+          "Lowell, MA 01852"
+        ],
+        "address1": "1258 Gorham St",
+        "address3": "",
+        "state": "MA",
+        "zip_code": "01852",
+        "address2": "",
+        "country": "US"
+      },
+      "is_closed": false,
+      "phone": "+19784530440",
+      "rating": 3.5,
+      "name": "Pizza Hazel",
+      "display_phone": "(978) 453-0440",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/3DUyCFDdPeoe6s20dvh3NQ/o.jpg",
+      "categories": [
+        {
+          "title": "Pizza",
+          "alias": "pizza"
+        },
+        {
+          "title": "Salad",
+          "alias": "salad"
+        },
+        {
+          "title": "Chicken Shop",
+          "alias": "chickenshop"
+        }
+      ],
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
+      "id": "pizza-hazel-lowell",
+      "url": "https://www.yelp.com/biz/pizza-hazel-lowell?adjust_creative=Qmv8zIF9edFTjGspSrTyDg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Qmv8zIF9edFTjGspSrTyDg",
+      "coordinates": {
+        "longitude": -71.3053065,
+        "latitude": 42.621507
+      }
+    },
+    {
+      "review_count": 46,
+      "price": "$$",
+      "distance": 1798.8890308039997,
+      "location": {
+        "city": "Lowell",
+        "display_address": [
+          "1334 Middlesex St",
+          "Lowell, MA 01851"
+        ],
+        "address1": "1334 Middlesex St",
+        "address3": "",
+        "state": "MA",
+        "zip_code": "01851",
+        "address2": "",
+        "country": "US"
+      },
+      "is_closed": false,
+      "phone": "+19784522936",
+      "rating": 3,
+      "name": "Angelina's Pizzeria & Subs",
+      "display_phone": "(978) 452-2936",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Ag279DEFu1YdHuQpG6-cCQ/o.jpg",
+      "categories": [
+        {
+          "title": "Pizza",
+          "alias": "pizza"
+        },
+        {
+          "title": "Sandwiches",
+          "alias": "sandwiches"
+        },
+        {
+          "title": "Italian",
+          "alias": "italian"
+        }
+      ],
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
+      "id": "angelinas-pizzeria-and-subs-lowell-2",
+      "url": "https://www.yelp.com/biz/angelinas-pizzeria-and-subs-lowell-2?adjust_creative=Qmv8zIF9edFTjGspSrTyDg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Qmv8zIF9edFTjGspSrTyDg",
+      "coordinates": {
+        "longitude": -71.3396682739258,
+        "latitude": 42.6380615234375
+      }
+    },
+    {
+      "review_count": 119,
+      "price": "$$",
+      "distance": 3132.083184874,
+      "location": {
+        "city": "Lowell",
+        "display_address": [
+          "1075 Westford St",
+          "Lowell, MA 01851"
+        ],
+        "address1": "1075 Westford St",
+        "address3": "",
+        "state": "MA",
+        "zip_code": "01851",
+        "address2": "",
+        "country": "US"
+      },
+      "is_closed": false,
+      "phone": "+19789701888",
+      "rating": 3,
+      "name": "Bonchon",
+      "display_phone": "(978) 970-1888",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/XTJGs_nYfAS9SKSOSXDMNg/o.jpg",
+      "categories": [
+        {
+          "title": "Korean",
+          "alias": "korean"
+        },
+        {
+          "title": "Asian Fusion",
+          "alias": "asianfusion"
+        },
+        {
+          "title": "Chicken Wings",
+          "alias": "chicken_wings"
+        }
+      ],
+      "transactions": [
+        "delivery",
+        "pickup"
+      ],
+      "id": "bonchon-lowell-2",
+      "url": "https://www.yelp.com/biz/bonchon-lowell-2?adjust_creative=Qmv8zIF9edFTjGspSrTyDg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Qmv8zIF9edFTjGspSrTyDg",
+      "coordinates": {
+        "longitude": -71.353845315025,
+        "latitude": 42.6301085715014
+      }
+    },
+    {
+      "review_count": 12,
+      "price": "$",
+      "distance": 6534.871037137999,
+      "location": {
+        "city": "Billerica",
+        "display_address": [
+          "199 Boston Rd",
+          "Billerica, MA 01862"
+        ],
+        "address1": "199 Boston Rd",
+        "address3": "",
+        "state": "MA",
+        "zip_code": "01862",
+        "address2": "",
+        "country": "US"
+      },
+      "is_closed": false,
+      "phone": "+19786671980",
+      "rating": 3,
+      "name": "Chipotle Mexican Grill",
+      "display_phone": "(978) 667-1980",
+      "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/zGPDBHS19YuTDkt3JBWzNw/o.jpg",
+      "categories": [
+        {
+          "title": "Mexican",
+          "alias": "mexican"
+        },
+        {
+          "title": "Fast Food",
+          "alias": "hotdogs"
+        }
+      ],
+      "transactions": [],
+      "id": "chipotle-mexican-grill-billerica",
+      "url": "https://www.yelp.com/biz/chipotle-mexican-grill-billerica?adjust_creative=Qmv8zIF9edFTjGspSrTyDg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Qmv8zIF9edFTjGspSrTyDg",
+      "coordinates": {
+        "longitude": -71.2913645910556,
+        "latitude": 42.5840324228758
+      }
+    },
+    {
+      "review_count": 26,
+      "price": "$$",
+      "distance": 852.00712676,
+      "location": {
+        "city": "Lowell",
+        "display_address": [
+          "651 Broadway St",
+          "Lowell, MA 01854"
+        ],
+        "address1": "651 Broadway St",
+        "address3": "",
+        "state": "MA",
+        "zip_code": "01854",
+        "address2": "",
+        "country": "US"
+      },
+      "is_closed": false,
+      "phone": "+19784538030",
+      "rating": 3,
+      "name": "Broadway Pizza",
+      "display_phone": "(978) 453-8030",
+      "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/6yDvyarlNKTcedWDsTj4Ww/o.jpg",
+      "categories": [
+        {
+          "title": "Pizza",
+          "alias": "pizza"
+        },
+        {
+          "title": "Sandwiches",
+          "alias": "sandwiches"
+        }
+      ],
+      "transactions": [],
+      "id": "broadway-pizza-lowell",
+      "url": "https://www.yelp.com/biz/broadway-pizza-lowell?adjust_creative=Qmv8zIF9edFTjGspSrTyDg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Qmv8zIF9edFTjGspSrTyDg",
+      "coordinates": {
+        "longitude": -71.327391564846,
+        "latitude": 42.6430041342974
+      }
+    }
+  ],
+  "total": 51
+}
