@@ -1,7 +1,7 @@
 const express = require('express');
 const bodyParser = require('body-parser');
 const yelp = require('yelp-fusion');
-const token = require('./modules/keyConfig');
+const token = 'hYzutkYMa9f9f2bch_J0dWWGvTe4gkxNaTktJ0GhzD5jUGLjoGiTzPKoVtL5trJW1mldYkb6AVApHyxbBuxTWuHoR4NVd3iW4JrSMpz57mTVEEkYuIK-NaUHgXfBWHYx'
 // End of Module declarations
 
 // Declare funcs.
