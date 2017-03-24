@@ -17,6 +17,11 @@ app.use(express.static('public'));
 app.use(bodyParser.urlencoded({
     extended: false,
 }));
+app.use(function(req, res, next) {
+  res.header("Access-Control-Allow-Origin", "*");
+  res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+  next();
+});
 
 // GET response for root
 app.get('/', () => {
@@ -24,7 +29,7 @@ app.get('/', () => {
   response.render('pages/index')
 });
 
-app.get('/yelpsearch/:searchterm/:searchlocation', (request, response) => {
+app.get('/yelpsearch/:searchterm/:searchlocation', (request, response, next) => {
   var term = request.params.searchterm;
   var location = request.params.searchlocation;
 
@@ -42,7 +47,7 @@ app.get('/yelpsearch/:searchterm/:searchlocation', (request, response) => {
 
 
 // POST response for /search
-app.post('/search', (req, res) => {
+app.post('/search', (req, res, next) => {
   const { searchterm, location } = req.body;
   var yelps;
   client.search({
