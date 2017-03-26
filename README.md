@@ -3,9 +3,10 @@ An API built with Express, used to pull information from Yelp to be used in a we
 
 The key token is provided, for now.
 
-To create a server of your own, using your own access token, simply replace the token and run with command:
+To create a server of your own, using your own access token, simply replace the token and run with commands:
+1.) `npm install`
 
-'node server'
+2.) `node server`
 
 To use the API that has already been deployed on Heroku, make request with an interface using: 
 
@@ -13,4 +14,4 @@ To use the API that has already been deployed on Heroku, make request with an in
   
 To make requests to the API inside of web application, make a GET request to the base URL
 
-  - https://ballotyelp.herokuapp.com/yelpsearch/*TERM_PARAMETER_HERE*/*LOCATION_PARAM_HERE
+  - https://ballotyelp.herokuapp.com/yelpsearch/*TERM_PARAMETER_HERE*/*LOCATION_PARAM_HERE*
