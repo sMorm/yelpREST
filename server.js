@@ -45,6 +45,23 @@ app.get('/yelpsearch/:searchterm/:searchlocation', (request, response, next) => 
   })
 });
 
+app.get('/yelpsearch/:searchterm/:longitude/:latitude', (request, response, next) => {
+  var term = request.params.searchterm;
+  var longitude = request.params.longitude;
+  var latitude = request.params.latitude;
+
+  client.search({
+    term: term,
+    longitude: longitude,
+    latitude: latitude
+  })
+  .then(res => {
+    return response.json(res.jsonBody);
+  })
+  .catch(err => {
+    return err.json({ error })
+  })
+});
 
 // POST response for /search
 app.post('/search', (req, res, next) => {
