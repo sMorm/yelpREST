@@ -7,20 +7,22 @@
     <link rel="stylesheet" href="style.css">
   </head>
 <body>
-  <h1>Reverse Proxy: Yelp</h1>
+  <h1>Yelp RESTful API</h1>
   <div class='container'>
-    
   <form action='/search' method= POST class='form'>
-    <label for='searchterm'>Search for:</label>
-    <input type='text' name='searchterm' required>
+    <input type='text' name='searchterm' placeholder="Search for..." required>
     
-    <label for='Quantity'>Location:</label>
-    <input type='text' name='location'>
+    <input type='text' name='location' placeholder="Location">
     <button type='submit'>
       Search
     </button>
   </form>
+
   </div>
-  
+  <p align='center' class='linkContainer'>
+    <a href='https://github.com/sMorm/yelpREST' target='_blank'>
+        <img src='http://i.imgur.com/l5WHWSX.png' alt='GitHub'/>
+    </a> 
+  </p>
 </body>
 </html>
