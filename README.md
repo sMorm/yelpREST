@@ -27,4 +27,4 @@ To make requests to the API inside of web application, make a GET request to the
 ### Accessing with Coordinates
 
 This one's pretty straight forward, don't mix them up!
-#### https://ballotyelp.herokuapp.com/yelpsearch/:longitude/:latitude
+#### https://ballotyelp.herokuapp.com/yelpsearch/:searchTerm/:longitude/:latitude
