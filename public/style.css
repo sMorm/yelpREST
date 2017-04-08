@@ -10,7 +10,24 @@ h1 {
   align-items: center;
   /*height: 60vh;*/
 }
+
+.titleContainer {
+  position: absolute;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  margin: 0px 178px;
+  width: 500px;
+  height: 100px;
+  background-color: #F6877C;
+}
+
+.titleContainer h1{
+  color: white;
+  font-size: 55px;
+  margin-top: 18px;
+}
 .container {
+  border-radius: 5px;
   font-family: sans-serif;
   text-decoration-color: darkslategrey;
   display:flex;
@@ -22,15 +39,16 @@ h1 {
   height: 500px;
   background-color: white;
   width: 500px;
-  -webkit-box-shadow: 0px 15px 21px 1px rgba(0,0,0,0.05);
-  -moz-box-shadow: 0px 15px 21px 1px rgba(0,0,0,0.05);
-  box-shadow: 0px 15px 21px 1px rgba(0,0,0,0.05);
+  -webkit-box-shadow: 0px 15px 21px 1px rgba(0,0,0,0.1);
+  -moz-box-shadow: 0px 15px 21px 1px rgba(0,0,0,0.1);
+  box-shadow: 0px 15px 21px 1px rgba(0,0,0,0.1);
 }
 
 .container label {
   font-size: 20px;
 }
 .form {
+  margin-top: 70px;
   width: 200px;
 }
 
@@ -44,13 +62,14 @@ h1 {
 }
 
 .form button {
-  background-color: black;
+  background-color: grey;
   height: 30px;
   width: 100px;
   border: none;
   color: white;
   margin-left: 50px;
   font-size: 15px;
+  font-weight: 700;
   opacity: 0.6;
   -webkit-box-shadow: 0px 15px 21px 1px rgba(0,0,0,0.05);
   -moz-box-shadow: 0px 15px 21px 1px rgba(0,0,0,0.05);
