@@ -28,3 +28,7 @@ To make requests to the API inside of web application, make a GET request to the
 
 This one's pretty straight forward, don't mix them up!
 #### https://ballotyelp.herokuapp.com/yelpsearch/:searchTerm/:longitude/:latitude
+
+<p align='center'>
+<img src="./screenshot.png" alt="Demo Screenshot"/>
+</p>
