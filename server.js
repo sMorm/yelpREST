@@ -55,6 +55,7 @@ app.get('/yelpsearch/:searchterm/:longitude/:latitude', (request, response, next
     term: term,
     longitude: longitude,
     latitude: latitude,
+    quantity: 60,
   })
   .then(res => {
     return response.json(res.jsonBody);
