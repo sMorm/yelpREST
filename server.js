@@ -36,6 +36,7 @@ app.get('/yelpsearch/:searchterm/:searchlocation', (request, response, next) => 
   client.search({
     term: term,
     location: location,
+    limit: 50,
   })
   .then(res => {
     return response.json(res.jsonBody);
@@ -53,7 +54,7 @@ app.get('/yelpsearch/:searchterm/:longitude/:latitude', (request, response, next
   client.search({
     term: term,
     longitude: longitude,
-    latitude: latitude
+    latitude: latitude,
   })
   .then(res => {
     return response.json(res.jsonBody);
