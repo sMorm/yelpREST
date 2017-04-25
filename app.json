@@ -1,6 +1,0 @@
-{
-    "name": "ballotyelp",
-    "description": "Reverse proxy for yelp",
-    "repository": "https://github.com/jane/example",
-    "generator": "https://www.expeditedssl.com/heroku-button-maker"
-}
